@@ -1,4 +1,4 @@
-gradio>=4.0.0
-gradio>=4.0.0[mcp]
+gradio>=4.44.0
+gradio>=4.44.0[mcp]
 requests
 transformers>=4.35.0
